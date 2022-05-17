@@ -1,0 +1,10 @@
+@import "./global.scss";
+
+.dark-mode {
+  background-color: $color-black;
+  color: $color-white;
+}
+.light-mode {
+  background-color: $color-white;
+  color: $color-black;
+}

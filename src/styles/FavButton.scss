@@ -1,0 +1,17 @@
+.FavButton {
+    padding-top: 8px;
+    display: flex;
+    align-items: center;
+    color: #804fad;
+    background-color: #0000ff00;
+    border: none;
+    cursor: pointer;
+}
+
+.dark-mode-favorite {
+    color: #cc6378;
+}
+
+.light-mode-favorite {
+    color: #ff4e72;
+}
