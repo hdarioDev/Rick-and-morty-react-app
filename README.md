@@ -31,15 +31,7 @@ npm run build
 
 ## Screenshot
 
-![App Screenshot](https://github.com/hdarioDev/assets/blob/main/rick-desktop.png?raw=true)
-
-## Screenshot Responsive
-
-![App Screenshot](https://github.com/hdarioDev/assets/blob/main/rick-responsive.png?raw=true)
-
-## Screenshot mode dark
-
-![App Screenshot](https://github.com/hdarioDev/assets/blob/main/rick-darkmode.png?raw=true)
+![rick-darkmode](https://user-images.githubusercontent.com/63020855/185960466-99c48139-d406-445a-b84a-78ddfc733ed9.png)
 
 ## Authors
 
